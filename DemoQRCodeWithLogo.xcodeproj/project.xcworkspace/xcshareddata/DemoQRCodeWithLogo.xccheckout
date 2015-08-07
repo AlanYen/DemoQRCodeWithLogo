@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>766758F0-674F-440C-8010-4D18104BA7E7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoQRCodeWithLogo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>132168E4BE982C7D7C8F65C258DE650B6D5DB73F</key>
+		<string>https://github.com/AlanYen/DemoQRCodeWithLogo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoQRCodeWithLogo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>132168E4BE982C7D7C8F65C258DE650B6D5DB73F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlanYen/DemoQRCodeWithLogo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>132168E4BE982C7D7C8F65C258DE650B6D5DB73F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>132168E4BE982C7D7C8F65C258DE650B6D5DB73F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoQRCodeWithLogo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
